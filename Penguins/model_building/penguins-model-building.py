@@ -2,7 +2,7 @@
 import pandas as pd
 
 # Loading the Dataset
-penguins = pd.read_csv('penguins_cleaned.csv')
+penguins = pd.read_csv('/Users/maranmaxi/Desktop/Additional/Intern/Example/Penguins/model_building/penguins_cleaned.csv')
 
 # Ordinal feature encoding
 # https://www.kaggle.com/pratik1120/penguin-dataset-eda-classification-and-clustering
