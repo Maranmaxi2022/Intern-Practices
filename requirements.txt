@@ -1,3 +1,9 @@
-streamlit
-yfinance
-reportlab
+streamlit~=1.33.0
+yfinance~=0.2.37
+reportlab~=4.2.0
+pandas~=2.2.2
+scikit-learn~=1.4.2
+numpy~=1.26.4
+requests~=2.31.0
+pillow~=10.3.0
+fpdf~=1.7.2
